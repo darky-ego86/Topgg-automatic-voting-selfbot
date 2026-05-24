@@ -1,0 +1,13 @@
+# ====================
+# PUT YOUR DISCORD TOKENS HERE
+# ====================
+
+# Instructions:
+# - One token per line
+# - No extra spaces
+# - Remove this comment section after adding tokens
+
+# Example (these are fake tokens - replace with your real ones):
+# NjQ4OTE4NTkxNDQxMzM4Mzc4.Xd23iA.fs4234gb-IFaRtGRewl2FTgCqc
+# MTEyMzQ1Njc4OTAxMjM0NTY3.XYZabc.defghijklmnOPQRSTUVwxyz
+# YOUR_THIRD_TOKEN_HERE
